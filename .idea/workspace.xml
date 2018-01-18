@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db78fdd-1e9e-4de2-a351-6852fdf1d51e" name="Default" comment="" />
+    <list default="true" id="3db78fdd-1e9e-4de2-a351-6852fdf1d51e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hiep/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../hiep/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../hiep/out/" />
     <ignored path="$PROJECT_DIR$/../hiep/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -648,12 +650,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516274277276</updated>
-      <workItem from="1516274286188" duration="7012000" />
+      <workItem from="1516274286188" duration="7154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7012000" />
+    <option name="totallyTimeSpent" value="7154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
