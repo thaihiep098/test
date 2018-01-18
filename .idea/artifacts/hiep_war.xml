@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hiep:war">
+    <output-path>$PROJECT_DIR$/../hiep/target</output-path>
+    <root id="archive" name="com.test-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hiep:war exploded" />
+    </root>
+  </artifact>
+</component>
